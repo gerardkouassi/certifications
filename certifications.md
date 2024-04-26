@@ -11,3 +11,4 @@
 ## **Ongoing** 
 
 -   Linux and Bash for Data Engineering
+-   Gestion de projet de Google Professional Certificate
